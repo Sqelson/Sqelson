@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey 👋
+
+I'm a 1st year Software Engineering BSc student at Nottingham Trent University. I have experience in SQL, Python, HTML/CSS and an iota of C#/C++.
+
+- 🌱 I’m currently learning C++ to be put to use on a project (more details soon).
+- 📫 How to reach me: E-mail on my profile!
+- 😄 Pronouns: Any/All.
+- ⚡ Fun fact: I have 3 years work experience at EON and Infosys! Primarily working as an Associate Technical Analyst and using SQL.
+-->
 
 <!--
 **Sqelson/Sqelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on [REDACTED].
 -->
