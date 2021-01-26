@@ -6,7 +6,6 @@ I'm a 1st year Software Engineering BSc student at Nottingham Trent University. 
 - 📫 How to reach me: E-mail on my profile!
 - 😄 Pronouns: Any/All.
 - ⚡ Fun fact: I have 3 years work experience at EON and Infosys! Primarily working as an Associate Technical Analyst and using SQL.
--->
 
 <!--
 **Sqelson/Sqelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
