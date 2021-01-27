@@ -9,7 +9,7 @@ I'm a 1st year Software Engineering BSc student at Nottingham Trent University. 
 
 ### My Stats:
 
-[![Sqelson's github stats](https://github-readme-stats.vercel.app/api?username=sqelson&show_icons=true&theme=radical)](https://github.com/sqelson/github-readme-stats)
+[![Sqelson's github stats](https://github-readme-stats.vercel.app/api?username=sqelson&show_icons=true&theme=radical)](https://github.com/sqelson/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sqelson)](https://github.com/sqelson/github-readme-stats)
 <!--
 **Sqelson/Sqelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on [REDACTED].
